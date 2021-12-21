@@ -51,3 +51,6 @@ npm run test
 - add-simple-trigger
 
 ![](add-simple-trigger.gif)
+
+TODO: 
+   计划修成通过spring boot actuator 的方式集成到现有基于spring boot的系统中。
